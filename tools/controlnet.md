@@ -6,7 +6,7 @@
 git clone https://github.com/huggingface/diffusers
 cd diffusers
 pip install -e .
-cd tools
+cd examples/controlnet
 pip install -r requirements.txt
 ```
 
